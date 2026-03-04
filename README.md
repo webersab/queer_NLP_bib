@@ -258,7 +258,7 @@ Francesca Lameiro, Lavinia Dunagan, Dallas Card, Eric Gilbert, and Oliver Haimso
 
 Anna Talas and Alice Hutchings. 2025. <a href="https://aclanthology.org/2025.woah-1.12/"><u>Beyond the Binary: Analysing Transphobic Hate and Harassment Online.</u></a> In _Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)_, pages 136–152, Vienna, Austria. Association for Computational Linguistics.
 
-Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI 2025](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HODI23](#hodi23)
+Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI25](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HOMO-LAT25](#homolat25), [HODI23](#hodi23), [MultiPRIDE26](#multipride26)
 
 ## Translation
 Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.16"><u>"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of The 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146-152, Canberra, Australia. Association for Computational Linguistics.
@@ -378,7 +378,12 @@ Sonali Kulal, Nethravathi Gidnakanala, Raksha G, Kavya G, Asha Hegde, and H Shas
 <a id="ltedi25"></a>
 ### LTEDI 2025 | Homophobia/Transphobia Detection in Social Media Comments
 
-Papers yet to be published.
+`Overview paper`
+Prasanna Kumar Kumaresan, Bharathi Raja Chakravarthi, Ruba Priyadharshini, Paul Buitelaar, Malliga Subramanian, and Kishore Kumar Ponnusamy. 2025. <a href="https://aclanthology.org/2025.ltedi-1.36/"><u>Overview of Homophobia and Transphobia Span Detection in Social Media Comments.</u></a> In _Proceedings of the 5th Conference on Language, Data and Knowledge: Fifth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 229–234, Naples, Italy. Association for Computational Linguistics.
+
+Konkimalla Laxmi Vignesh, Mahankali Sri Ram Krishna, Dondluru Keerthana, and Premjith B. 2025. <a href="https://aclanthology.org/2025.ltedi-1.5/"><u>SKVtrio@LT-EDI-2025: Hybrid TF-IDF and BERT Embeddings for Multilingual Homophobia and Transphobia Detection in Social Media Comments.</u></a> In _Proceedings of the 5th Conference on Language, Data and Knowledge: Fifth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 26–30, Naples, Italy. Association for Computational Linguistics.
+
+Malliga Subramanian, Aruna A, Amudhavan M, Jahaganapathi S, and Kogilavani Shanmugavadivel. 2025. <a href="https://aclanthology.org/2025.ltedi-1.19/"><u>KEC-Elite-Analysts@LT-EDI 2025: Leveraging Deep Learning for Racial Hoax Detection in Code-Mixed Hindi-English Tweets.</u></a> In _Proceedings of the 5th Conference on Language, Data and Knowledge: Fifth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 111–115, Naples, Italy. Association for Computational Linguistics.
 
 <a id="iberlef"></a>
 ## IberLEF: The Iberian Language Evaluation Forum
@@ -459,7 +464,7 @@ Daniel Ayala Niño, Manuel Montes y Gómez, and Ciro Velasco Cruz. 2024. <a href
 ### IberLEF2024 | HOPE: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclussion and as Expectations
 
 `Overview paper`
-Daniel García-Baena, Fazlourrahman Balouchzahi, Sabur Butt, Miguel Ángel García-Cumbreras, Atnafu Lambebo Tonja, José Antonio García-Díaz, Selen Bozkurt, Bharathi Raja Chakravarthi, Hector G. Ceballos, Rafael Valencia-García, Grigori Sidorov, L. Alfonso Ureña-López, Alexander Gelbukh, and Salud María Jiménez-Zafra. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6627"><u>Overview of HOPE at IberLEF 2024: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations.</u></a> _Procesamiento del Lenguaje Natural_, 73:407-419.
+Daniel García-Baena, Fazlourrahman Balouchzahi, Sabur Butt, Miguel Ángel García-Cumbreras, Atnafu Lambebo Tonja, José Antonio García-Díaz, Selen Bozkurt, Bharathi Raja Chakravarthi, Hector G. Ceballos, Rafael Valencia-García, Grigori Sidorov, L. Alfonso Ureña-López, Alexander Gelbukh, and Salud María Jiménez-Zafra. 2024. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6627"><u>Overview of HOPE at IberLEF 2024: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations.</u></a> _Procesamiento del Lenguaje Natural_, 73:407-419.
 
 Bui Hong Son, Le Minh Quan, and Dang Van Thin. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper1.pdf"><u>ABCD Team at HOPE 2024: Hope Detection with BERTology Models and Data Augmentation.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
 
@@ -496,7 +501,20 @@ Kishore Kumar Ponnusamy, Mani Vegupatti, Prasanna Kumar Kumaresan, Ruba Priyadha
 <a id="homolat25"></a>
 ### IberLEF2025 | HOMO-LAT: Human-centric polarity detection in Online Messages Oriented to the Latin American-speaking LGBTQ+ population
 
-Papers yet to be published.
+`Overview paper`
+Gemma Bel-Enguix, Helena Gómez-Adorno, Sergio Ojeda-Trueba, Gerardo Sierra, Jessica Barco, Edgar Lee-Romero, Jocelyn Dunstan, and Ruben Manrique. 2025. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6764"><u>Overview of HOMO-LAT at IberLEF 2025: Human-centric polarity detection in Online Messages Oriented to the Latin American-speaking LGBTQ+ populaTion.</u></a> _Procesamiento del Lenguaje Natural_, 75:413-424.
+
+Jose Olivert-Iserte, Diego Caballero-García-Alcaide, and Lucía Guijarro-Martínez. 2025. <a href="https://ceur-ws.org/Vol-4098/HOMOLAT2025_paper1.pdf"><u>PLD at HOMO-LAT 2025: Enhancing Dialectal Sentiment Analysis through Contextual Retrieval and Translation.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2025)_, Zaragoza, Spain. CEUR-WS.org.
+
+Yoan Martínez-López, Jose Carlos Hernández Nieto, Ansel Rodríguez-Gonzalez, Julio Madera, Ana Orquidea López Correoso, Carlos de Castro Lozano, Jose Miguel Ramírez Uceda, and José Carlos Arévalo Fernández. 2025. <a href="https://ceur-ws.org/Vol-4098/HOMOLAT2025_paper2.pdf"><u>UC-UCO-CICESE_UT3-Plenitas Team at HOMO-LAT 2025: Exploring the Challenge of Determining the Opinion of Latin-American Speakers about LGBTQ+ Community.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2025)_, Zaragoza, Spain. CEUR-WS.org.
+
+Mariuxi del Carmen Toapanta-Bernabé, Miguel Ángel García-Cumbreras, Luis Alfonso Ureña-López, and Adrián David Triviño-León. 2025. <a href="https://ceur-ws.org/Vol-4098/HOMOLAT2025_paper3.pdf"><u>SINAI-UGPLN at HOMO-LAT 2025: Enhancing RoBERTuito with Synthetic Data and Slur–Dialect Features for Multidialectal Zero-Shot LGBTQ Polarity Classification.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2025)_, Zaragoza, Spain. CEUR-WS.org.
+
+Guillermo Ruiz, Rogelio Campos, Tania Ramirez-delreal, Daniela Moctezuma, Mario Graff, and Eric Sadit Tellez. 2025. <a href="https://ceur-ws.org/Vol-4098/HOMOLAT2025_paper4.pdf"><u>INFOTEC-NLP at HOMO-LAT 2025: Testing a Novel Multi-region Spanish Model to Monitor Opinion in Latin American LGBTQI+ Social Media.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2025)_, Zaragoza, Spain. CEUR-WS.org.
+
+Marco Cardoso-Moreno, Luis Moreno-Mendieta, Diana Jiménez, José Alberto Torres-León, and Jose Valdez-Rodríguez. 2025. <a href="https://ceur-ws.org/Vol-4098/HOMOLAT2025_paper5.pdf"><u>HomoCIC at HOMO-LAT 2025: Retrieval Augmented Classification using Transformer Architectures and Vector Knowledgebases.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2025)_, Zaragoza, Spain. CEUR-WS.org.
+
+Cesar Macias, Miguel Soto, Tania Alcántara, Omar García, José Eduardo Valdez-Rodríguez, and Edgardo Felipe-Riveron. 2025. <a href="https://ceur-ws.org/Vol-4098/HOMOLAT2025_paper6.pdf"><u>CogniCIC at HOMO-LAT 2025: Fine-tuning and Semantic Similarity Approaches for Polarity Detection in Spanish Texts.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2025)_, Zaragoza, Spain. CEUR-WS.org.
 
 <a id="evalita"></a>
 ## The Final Workshop for EVALITA, the evaluation campaign of Natural Language Processing (NLP) and speech tools for the Italian language
@@ -516,3 +534,43 @@ Chiara Di Bonaventura, Arianna Muti, and Marco Antonio Stranisci. 2023. <a href=
 Davide Locatelli and Lorenzo Locatelli. 2023. <a href="https://ceur-ws.org/Vol-3473/paper30.pdf"><u>LCTs at HODI: Homotransphobic Speech Detection on Italian Tweets.</u></a> In _Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023)_, Parma, Italy. CEUR-WS.org.
 
 Elisa Leonardelli and Camilla Casula. 2023. <a href="https://ceur-ws.org/Vol-3473/paper31.pdf"><u>DH-FBK at HODI: Multi-Task Learning with Classifier Ensemble Agreement, Oversampling and Synthetic Data.</u></a> In _Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023)_, Parma, Italy. CEUR-WS.org.
+
+<a id="multipride26"></a>
+### EVALITA2026 | MultiPRIDE: Multilingual Automatic Detection of Reclamation of Slurs in the LGBTQ+ Context
+
+`Overview paper`
+Chiara Ferrando, Lia Draetta, Marco Madeddu, Mae Sosto, Viviana Patti, Paolo Rosso, Cristina Bosco, Jacinto Mata, and Estrella Gualda. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/61.pdf"><u>MultiPRIDE at EVALITA 2026: Overview of the Multilingual Automatic Detection of Slur Reclamation in the LGBTQ+ Context Task.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Luca Tedeschini and Matteo Fasulo. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/20.pdf"><u>AIWizards at MULTIPRIDE: A Hierarchical Approach to Slur Reclamation Detection.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Tania Alcántara, Omar Garcia-Vazquez, Jose A. Torres-León, Marco Cardoso-Moreno, Diana Jimenez, and Luis Moreno-Mendieta. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/55.pdf"><u>AVAHI at MultiPRIDE: Multilingual Reclaimed Language Detection via Knowledge Graphs and Retrieval-Augmented Generation.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Hadi Bayrami Asl Tekanlou, Mahdi Bakhtiyarzade, and Jafar Razmara. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/6.pdf"><u>Challenger at MultiPRIDE: Is It Hate Speech or Reclaimed?.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Federico Dingeo and Marco Viviani. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/47.pdf"><u>DataSummit at MultiPRIDE: Context-Aware Multilingual Detection of Slur Reclamation in LGBTQ+ Contexts.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Houman Rajabi, Fatemeh Ghavidel, and Kourosh Ghahremani. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/56.pdf"><u>Ghavidel-Rajabi at MultiPRIDE: Identity, Toxicity, or Complexity? A Language-Specific Feature Selection Approach to Reclamatory Intent Detection.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Federico Traina, Alessandro Santoro, Gabriele Greco, Irene Siragusa, and Roberto Pirrone. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/13.pdf"><u>GRUPPETTOZZO at MultiPRIDE 2026: Detecting LGBTQ+ Reclamatory Intent via Context-Aware Transformers.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Greta Damo and Nicolás Benjamín Ocampo. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/53.pdf"><u>HateItOff at MultiPRIDE: Linguistic and Sentiment Cues in Reclaimed LGBTQ+ Slur Detection.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Laura Vázquez-Ramos, Jacinto Mata-Vázquez, and Victoria Pachón-Álvarez. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/42.pdf"><u>I2C At MultiPRIDE 2026: Transformers And Generative LLMs For Multilingual Reclamation Classification.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Jorge Gleaves and Guillermo Ruiz. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/57.pdf"><u>INFOTEC-NLP at MultiPRIDE: Region-Aware Transformer Models for Spanish Reclaimed Language Classification.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Barathi Ganesh HB, Michal Ptaszynski, Rene Melendez, and Juuso Eronen. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/19.pdf"><u>KIT-TIP-NLP at MultiPride: Continual Learning with Multilingual Foundation Model.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Alessio Mercurio, Giorgio Talluto, Irene Siragusa, and Roberto Pirrone. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/14.pdf"><u>LlaNa at MultiPRIDE 2026: A Fine-Tuning Approach with Cross-Lingual Augmentation.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Ivana Crescenzi, Arianna Muti, and Debora Nozza. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/34.pdf"><u>MilaNLP at MultiPRIDE: Evaluating Lexical, Transformer, and Retrieval-Augmented Models for Reclaimed Language.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Nam Dang, Vo Tuan Kiet, and Dang Van Thin. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/3.pdf"><u>NamDang at MultiPride@EVALITA 2026: Multilingual Classification of Reclaimed Language in LGBTQ+ Discourse using Transformer-based Models.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Noe Come Jacques Le Pollotec, Elena Simona Apostol, and Ciprian Octavian Truică. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/31.pdf"><u>NetGuardAI at MultiPRIDE: Multilingual Detection of Reclaimed Language.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Sara Visconti and Federica Manzi. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/52.pdf"><u>SaFe Tweets @ MultiPRIDE: From Multi-Model Ensembles to Expert LLMs for Reappropriation Detection.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Aurora Cimminelli, Giulia Corvino, Camilla Gentili, and Marco Viviani. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/35.pdf"><u>The Hate Busters at MultiPRIDE: Automatic Identification of Reappropriated Slurs in Multilingual LGBTQ+ Discourse.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
+
+Simone Casazza. 2026. <a href="https://apa.dipsco.unitn.it/evalita2026/50.pdf"><u>UniBO-FICLIT at MultiPRIDE: Fine-Tuning an ELECTRA-Based Model for the Detection of Italian Reclaimed Slurs.</u></a> In _Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)_, Bari, Italy. CEUR-WS.org.
