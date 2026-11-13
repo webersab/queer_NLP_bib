@@ -258,7 +258,7 @@ Francesca Lameiro, Lavinia Dunagan, Dallas Card, Eric Gilbert, and Oliver Haimso
 
 Anna Talas and Alice Hutchings. 2025. <a href="https://aclanthology.org/2025.woah-1.12/"><u>Beyond the Binary: Analysing Transphobic Hate and Harassment Online.</u></a> In _Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)_, pages 136–152, Vienna, Austria. Association for Computational Linguistics.
 
-Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI25](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HOMO-LAT25](#homolat25), [HODI23](#hodi23), [MultiPRIDE26](#multipride26)
+Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI25](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HOMO-LAT25](#homolat25), [HODI23](#hodi23), [MultiPRIDE26](#multipride26), [LTEDI26: Task 1](#ltedi26-1), [LTEDI26: Task 2](#ltedi26-2)
 
 ## Translation
 Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.16"><u>"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of The 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146-152, Canberra, Australia. Association for Computational Linguistics.
@@ -384,6 +384,42 @@ Prasanna Kumar Kumaresan, Bharathi Raja Chakravarthi, Ruba Priyadharshini, Paul 
 Konkimalla Laxmi Vignesh, Mahankali Sri Ram Krishna, Dondluru Keerthana, and Premjith B. 2025. <a href="https://aclanthology.org/2025.ltedi-1.5/"><u>SKVtrio@LT-EDI-2025: Hybrid TF-IDF and BERT Embeddings for Multilingual Homophobia and Transphobia Detection in Social Media Comments.</u></a> In _Proceedings of the 5th Conference on Language, Data and Knowledge: Fifth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 26–30, Naples, Italy. Association for Computational Linguistics.
 
 Malliga Subramanian, Aruna A, Amudhavan M, Jahaganapathi S, and Kogilavani Shanmugavadivel. 2025. <a href="https://aclanthology.org/2025.ltedi-1.19/"><u>KEC-Elite-Analysts@LT-EDI 2025: Leveraging Deep Learning for Racial Hoax Detection in Code-Mixed Hindi-English Tweets.</u></a> In _Proceedings of the 5th Conference on Language, Data and Knowledge: Fifth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 111–115, Naples, Italy. Association for Computational Linguistics.
+
+<a id="ltedi26-1"></a>
+### LTEDI 2026 | Task 1: Counter Narrative Generation on Homophobic and Transphobic Comments
+
+`Overview paper`
+Prasanna Kumar Kumaresan, Praveen Prasannan, Tanay Singh, Ruba Priyadharshini, Subalalitha Chinnaudayar Navaneethakrishnan, Saranya Rajiakodi, Paul Buitelaar, and Bharathi Raja Chakravarthi. 2026. <a href="https://aclanthology.org/2026.ltedi-1.11/"><u>Findings of Shared Task on Counter Narrative Generation on Homophobic and Transphobic Comments.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 118–127, Online. Association for Computational Linguistics.
+
+Ramesh Kannan R and Ratnavel Rajalakshmi. 2026. <a href="https://aclanthology.org/2026.ltedi-1.16/"><u>DLRG@LT-EDI 2026: Automating Counter-Narratives for Homophobic and Transphobic Comments.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 161–166, Online. Association for Computational Linguistics.
+
+Manasa S, Arohi Rawat, and Anbukkarasi Sampath. 2026. <a href="https://aclanthology.org/2026.ltedi-1.17/"><u>DuoNova@LTEDI 2026: Multilingual Span Detection and Counter-Narrative Generation on Homophobic and Transphobic Comments.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 167–171, Online. Association for Computational Linguistics.
+
+TT Pranesh, K.K.Thamizhmathi, S Vigneshwaran, and Bharathi B. 2026. <a href="https://aclanthology.org/2026.ltedi-1.21/"><u>JusticeBots@LT-EDI 2026: Prompt-Based Counter-Narrative Generation for Homophobia and Transphobia Comments.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 188–192, Online. Association for Computational Linguistics.
+
+Preethi Gajawada, Bhanu Harsha Yanamadala, Akankshya Kar, Sahil Wadhwa, and Divya Chaudhary. 2026. <a href="https://aclanthology.org/2026.ltedi-1.24/"><u>NEUNI@LT-EDI 2026: Counter Narrative Generation on Homophobic and Transphobic Comments.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 206–211, Online. Association for Computational Linguistics.
+
+S.B.Priya and harathi B. 2026. <a href="https://aclanthology.org/2026.ltedi-1.25/"><u>RspectNLP@LT-EDI 2026:Rubric-Driven Prompting for Safe Multilingual Counter Narrative Generation.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 212–216, Online. Association for Computational Linguistics.
+
+Gaurangi Sinha, Rajarajeswari Palacharla, and Manoj Balaji Jagadeeshan. 2026. <a href="https://aclanthology.org/2026.ltedi-1.29/"><u>SigJBS@LT-EDI 2026: QLoRA-Tuned Homophobic and Transphobic Counter Narrative Generation.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 234–238, Online. Association for Computational Linguistics.
+
+Vinay Babu Ulli and Jyoti Kumari. 2026. <a href="https://aclanthology.org/2026.ltedi-1.30/"><u>TeamV at LT-EDI 2026: Multilingual Hate Speech Span Detection and Counter-Narrative Generation via Few-Shot In-Context Learning.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 239–243, Online. Association for Computational Linguistics.
+
+<a id="ltedi26-2"></a>
+### LTEDI 2026 | Task 2: Homophobia and Transphobia Meme Classification
+
+`Overview paper`
+Kishore Kumar Ponnusamy, Bharathi Raja Chakravarthi, Mahesh Susaladi, Junru Ren, Prasanna Kumar Kumaresan, Premjith B, Durairaj Thenmozhi, Ruba Priyadharshini, and Subalalitha Chinnaudayar Navaneethakrishnan. 2026. <a href="https://aclanthology.org/2026.ltedi-1.13/"><u>Overview of the Multimodal Homophobia and Transphobia Meme Classification Shared Task.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 141-149, Online. Association for Computational Linguistics.
+
+Saloni Kushwaha, Jishnu Bandyopadhyay, Deepawali Sharma, and Aakash Singh. 2026. <a href="https://aclanthology.org/2026.ltedi-1.15/"><u>CuriousVectors@LT-EDI 2026: Detection of Homophobic and Transphobic Memes on Social Media Using a Hybrid Multimodal Approach.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 155-160, Online. Association for Computational Linguistics.
+
+Ivo Bueno, Lea Hirlimann, and Enkelejda Kasnecin. 2026. <a href="https://aclanthology.org/2026.ltedi-1.23/"><u>MemeScouts@LT-EDI 2026: Asking the Right Questions - Prompted Weak Supervision for Meme Hate Speech Detection.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 198-205, Online. Association for Computational Linguistics.
+
+Jishnu Bandyopadhyay, Saloni Kushwaha, Deepawali Sharma, and Aakash Singh. 2026. <a href="https://aclanthology.org/2026.ltedi-1.26/"><u>SAJI_English@LT-EDI 2026: Detection of Homophobia and Transphobia in Internet Memes Using Zero-Shot Learning.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 217-221, Online. Association for Computational Linguistics.
+
+Susmitha Jaishri, Kogilavani Shanmugavadivel, Malliga Subramanian, and Mouleeshuwarapprabu R 2026. <a href="https://aclanthology.org/2026.ltedi-1.27/"><u>Susmitha@LT-EDI 2026: Detecting LGBTQ+ Phobia in Multilingual Memes via Joint Representation.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 222-225, Online. Association for Computational Linguistics.
+
+Gaurangi Sinha, Rajarajeswari Palacharla, and Manoj Balaji Jagadeeshan. 2026. <a href="https://aclanthology.org/2026.ltedi-1.28/"><u>SigJBS@LT-EDI 2026: Multimodal Homophobia and Transphobia Meme Classification.</u></a> In _Proceedings of the Sixth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 226-233, Online. Association for Computational Linguistics.
 
 <a id="iberlef"></a>
 ## IberLEF: The Iberian Language Evaluation Forum
